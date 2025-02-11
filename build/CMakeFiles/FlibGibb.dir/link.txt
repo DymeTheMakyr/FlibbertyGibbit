@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\FlibGibb.dir/objects.a
+C:\Users\Hugo\w64devkit\bin\ar.exe qc CMakeFiles\FlibGibb.dir/objects.a @CMakeFiles\FlibGibb.dir\objects1.rsp
+C:\Users\Hugo\w64devkit\bin\c++.exe -Wl,--whole-archive CMakeFiles\FlibGibb.dir/objects.a -Wl,--no-whole-archive -o FlibGibb.exe -Wl,--out-implib,libFlibGibb.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\FlibGibb.dir\linkLibs.rsp
