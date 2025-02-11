@@ -1,0 +1,11 @@
+.\raylib
+.\.idea
+.\raygui.h
+.\build\_deps
+.\build\Makefile
+.\build\CMakeCache.txt
+.\build\CMakeFiles
+.\build\cmake_install.cmake
+.\build\CPackConfig.cmake
+.\build\CPackSourceConfig.cmake
+.\build\raylib
